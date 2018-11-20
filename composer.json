@@ -1,6 +1,6 @@
 {
     "name": "magento/inventory-composer-installer",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Composer plugin for Magento Multi Source Inventory",
     "type": "composer-plugin",
     "license": [
