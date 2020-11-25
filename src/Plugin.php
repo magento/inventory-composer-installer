@@ -89,4 +89,12 @@ class Plugin implements PluginInterface, EventSubscriberInterface
         }
         return $this->moduleDeployment;
     }
+
+    public function deactivate(Composer $composer, IOInterface $io)
+    {
+    }
+
+    public function uninstall(Composer $composer, IOInterface $io)
+    {
+    }
 }
